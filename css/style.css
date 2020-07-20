@@ -1,0 +1,25 @@
+h1, h5, p {
+  text-align: center;
+}
+
+.cardBorder {
+  border-radius: 10px;
+}
+
+.button{
+  margin-top: 30px;
+}
+
+.cardRow {
+  width: 70%;
+  margin: 0 auto;
+}
+
+label.active {
+  color: #7b1fa2 !important;
+}
+
+input:focus, input:not(:focus) {
+  border-bottom: 1px solid #7b1fa2 !important;
+  box-shadow: 0 1px 0 0 #7b1fa2 !important;
+}
